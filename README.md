@@ -1,0 +1,2 @@
+# Calculator
+Algorythm aproach
